@@ -45,7 +45,7 @@ h4,
 h5,
 h6 {
 
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: var(--first-name-color);
@@ -63,7 +63,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.35rem;
 }
 
