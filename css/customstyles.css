@@ -6,13 +6,13 @@
   --social-media-icons-color:#495057;
   --social-media-icons-color-hovering:#006e2e;
   --aside-backgorund-panel-color: #27592D;
-  --last-name-color: #299b77;
-  --nav-title-text-color: #299b77;
+  --last-name-color: #59188b;
+  --nav-title-text-color: #59188b;
   /* --nav-item-text-color:  */
   --skill-icon-color: #27592D;
   --important-text-color: #299b77;
   --basic-links-text-color: #299b77;
-  --basic-links-text-color-hovering: #006e2e;
+  --basic-links-text-color-hovering: #ca93ee;
 
 
   /* fonts */
@@ -166,7 +166,7 @@ section.resume-section .resume-item .resume-date {
  /* for browsers that dont support gradient*/
  background-color: var(--aside-backgorund-panel-color) !important;
  /* gradient */
- background: linear-gradient(to right, #2ebaa0 , #006e2e) !important;
+ background: linear-gradient(to right, #ca93ee , #59188b) !important;
 }
 
 .text-primary {
