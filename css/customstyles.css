@@ -2,20 +2,17 @@
   /* colors */
 
   --main-body-text-color: #868e96;
-  --first-name-color: #343a40;
+  --first-name-color: #7F7FFF;
   --social-media-icons-color:#495057;
-  --social-media-icons-color-hovering:#006e2e;
-  --aside-backgorund-panel-color: #27592D;
-  --last-name-color: #59188b;
+  --social-media-icons-color-hovering:#7F7FFF;
+  --aside-background-panel-color: #000080;
+  --last-name-color: #000080;
   --nav-title-text-color: #59188b;
-  /* --nav-item-text-color:  */
-  --skill-icon-color: #27592D;
-  --important-text-color: #299b77;
-  --basic-links-text-color: #299b77;
-  --basic-links-text-color-hovering: #ca93ee;
+  --skill-icon-color: #59188b;
+  --important-text-color: #7F7FFF;
+  --basic-links-text-color: #7F7FFF;
+  --basic-links-text-color-hovering: #7F7FFF;
 
-
-  /* fonts */
 }
 body {
   font-family: 'Open Sans', serif;
@@ -58,6 +55,13 @@ h1 {
 
 h2 {
   font-size: 3.5rem;
+}
+
+.p-0 {
+
+    padding: 0 !important;
+    background: black;
+
 }
 
 .subheading {
@@ -165,7 +169,7 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
  /* for browsers that dont support gradient*/
- background-color: var(--aside-backgorund-panel-color) !important;
+ background-color: var(--aside-background-panel-color) !important;
  /* gradient */
  background: linear-gradient(to right, #7F7FFF , #000080) !important;
 }
