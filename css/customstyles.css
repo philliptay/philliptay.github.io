@@ -207,7 +207,7 @@ a:hover, a:focus, a:active {
   height: 200px;
 
   border-style: solid ridge solid groove   ;
-  border-color: #2ebaa0;
+  border-color: #7F7FFF;
   border-width: 7px;
   padding: 5px;
 }
@@ -224,7 +224,7 @@ a:hover, a:focus, a:active {
   margin-right: auto;
   margin-bottom: 10px;
   border-style: solid ridge solid groove   ;
-  border-color: #2ebaa0;
+  border-color: #7F7FFF;
   border-width: 7px;
   padding: 5px;
 
@@ -265,7 +265,7 @@ u{
   text-decoration: none;
   font-weight: bold;
   border-bottom:2px solid;
-  border-bottom-color: #2ebaa0;
+  border-bottom-color: #7F7FFF;
 }
 
 img {
@@ -273,7 +273,7 @@ img {
    height: 200px !important;
 
    border-bottom:2px solid;
-   border-bottom-color: #2ebaa0;
+   border-bottom-color: #7F7FFF;
 }
 /*full screen*/
 @media (min-width: 768px) {
