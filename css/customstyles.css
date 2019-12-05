@@ -4,13 +4,13 @@
   --main-body-text-color: #868e96;
   --first-name-color: #5684ae;
   --social-media-icons-color:#495057;
-  --social-media-icons-color-hovering:#7F7FFF;
+  --social-media-icons-color-hovering:#5684ae;
   --aside-background-panel-color: #0000FF;
-  --last-name-color: #0000FF;
+  --last-name-color: #a2cffe;
   --nav-title-text-color: #59188b;
   --skill-icon-color: #59188b;
   --important-text-color: #5684ae;
-  --basic-links-text-color: #0000FF;
+  --basic-links-text-color: #a2cffe;
   --basic-links-text-color-hovering: #5684ae;
 
 }
