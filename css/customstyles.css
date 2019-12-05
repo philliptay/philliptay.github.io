@@ -2,16 +2,16 @@
   /* colors */
 
   --main-body-text-color: #868e96;
-  --first-name-color: #7F7FFF;
+  --first-name-color: #5684ae;
   --social-media-icons-color:#495057;
   --social-media-icons-color-hovering:#7F7FFF;
   --aside-background-panel-color: #0000FF;
   --last-name-color: #0000FF;
   --nav-title-text-color: #59188b;
   --skill-icon-color: #59188b;
-  --important-text-color: #7F7FFF;
+  --important-text-color: #5684ae;
   --basic-links-text-color: #0000FF;
-  --basic-links-text-color-hovering: #7F7FFF;
+  --basic-links-text-color-hovering: #5684ae;
 
 }
 body {
@@ -172,7 +172,7 @@ section.resume-section .resume-item .resume-date {
  /* for browsers that dont support gradient*/
  background-color: var(--aside-background-panel-color) !important;
  /* gradient */
- background: linear-gradient(to right, #0000FF , #000011) !important;
+ background: linear-gradient(to right, #5684ae , #000011) !important;
 }
 
 .text-primary {
