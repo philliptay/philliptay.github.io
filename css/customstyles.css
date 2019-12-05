@@ -5,13 +5,13 @@
   --first-name-color: #5684ae;
   --social-media-icons-color:#495057;
   --social-media-icons-color-hovering:#5684ae;
-  --aside-background-panel-color: #0000FF;
+  --aside-background-panel-color: #5684ae;
   --last-name-color: #a2cffe;
   --nav-title-text-color: #59188b;
   --skill-icon-color: #59188b;
   --important-text-color: #5684ae;
-  --basic-links-text-color: #a2cffe;
-  --basic-links-text-color-hovering: #5684ae;
+  --basic-links-text-color: #5684ae;
+  --basic-links-text-color-hovering: #a2cffe;
 
 }
 body {
@@ -207,7 +207,7 @@ a:hover, a:focus, a:active {
   height: 200px;
 
   border-style: solid ridge solid groove   ;
-  border-color: #7F7FFF;
+  border-color: #5684ae;
   border-width: 7px;
   padding: 5px;
 }
@@ -224,7 +224,7 @@ a:hover, a:focus, a:active {
   margin-right: auto;
   margin-bottom: 10px;
   border-style: solid ridge solid groove   ;
-  border-color: #7F7FFF;
+  border-color: #5684ae;
   border-width: 7px;
   padding: 5px;
 
@@ -265,7 +265,7 @@ u{
   text-decoration: none;
   font-weight: bold;
   border-bottom:2px solid;
-  border-bottom-color: #7F7FFF;
+  border-bottom-color: #5684ae;
 }
 
 img {
@@ -273,7 +273,7 @@ img {
    height: 200px !important;
 
    border-bottom:2px solid;
-   border-bottom-color: #7F7FFF;
+   border-bottom-color: #5684ae;
 }
 /*full screen*/
 @media (min-width: 768px) {
