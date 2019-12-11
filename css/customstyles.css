@@ -212,6 +212,10 @@ a:hover, a:focus, a:active {
   padding: 5px;
 }
 
+.subbullet {
+  margin-left: 5%;
+}
+
 .interest_img{
   margin-top: 0px;
 
